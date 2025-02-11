@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/[atul7970]/[Kubeaadm]/blob/[main]/Screenshot 2025-02-11 115159.jpg?raw=true)
 ## Step-by-Step Installation
 
 ### Step 1: Disable Swap on All Nodes
